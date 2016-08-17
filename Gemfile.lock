@@ -69,6 +69,7 @@ GEM
     multi_json (1.12.1)
     multi_xml (0.5.5)
     orm_adapter (0.5.0)
+    pg (0.17.1-x86-mingw32)
     rabl (0.11.8)
       activesupport (>= 2.3.14)
     rack (1.5.5)
@@ -138,6 +139,7 @@ DEPENDENCIES
   httparty
   jbuilder (~> 2.0)
   jquery-rails
+  pg
   rabl (~> 0.11.6)
   rails (= 4.1.8)
   sass-rails (~> 4.0.3)
